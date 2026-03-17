@@ -2,7 +2,7 @@
 
 A SvelteKit + Claude AI powered news dashboard with per-article AI summaries and trend analysis across headlines.
 
-🌐 **Live Demo**: [news-ai-dashboard.vercel.app](https://news-ai-dashboard.vercel.app) 
+🌐 **Live Demo**: [coming soon..](https://news-ai-dashboard.vercel.app) 
 
 ---
 
